@@ -1,0 +1,204 @@
+Uri: https://207582.mannesoftprime.com.br/pre_inscricao/imagens/ui-bg_flat_0_aaaaaa_40x100.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\pre_inscricao\imagens\ui-bg_flat_0_aaaaaa_40x100.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/pre_inscricao/imagens/ui-bg_flat_0_eeeeee_40x100.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\pre_inscricao\imagens\ui-bg_flat_0_eeeeee_40x100.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/pre_inscricao/imagens/ui-bg_flat_55_c0402a_40x100.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\pre_inscricao\imagens\ui-bg_flat_55_c0402a_40x100.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/pre_inscricao/imagens/ui-bg_flat_55_eeeeee_40x100.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\pre_inscricao\imagens\ui-bg_flat_55_eeeeee_40x100.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/pre_inscricao/imagens/ui-bg_glass_100_f8f8f8_1x400.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\pre_inscricao\imagens\ui-bg_glass_100_f8f8f8_1x400.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/pre_inscricao/imagens/ui-bg_glass_35_dddddd_1x400.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\pre_inscricao\imagens\ui-bg_glass_35_dddddd_1x400.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/pre_inscricao/imagens/ui-bg_glass_60_eeeeee_1x400.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\pre_inscricao\imagens\ui-bg_glass_60_eeeeee_1x400.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/pre_inscricao/imagens/ui-bg_inset-hard_75_999999_1x100.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\pre_inscricao\imagens\ui-bg_inset-hard_75_999999_1x100.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/pre_inscricao/imagens/ui-bg_inset-soft_50_c9c9c9_1x100.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\pre_inscricao\imagens\ui-bg_inset-soft_50_c9c9c9_1x100.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/pre_inscricao/imagens/ui-icons_3383bb_256x240.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\pre_inscricao\imagens\ui-icons_3383bb_256x240.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/pre_inscricao/imagens/ui-icons_454545_256x240.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\pre_inscricao\imagens\ui-icons_454545_256x240.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/pre_inscricao/imagens/ui-icons_70b2e1_256x240.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\pre_inscricao\imagens\ui-icons_70b2e1_256x240.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/pre_inscricao/imagens/ui-icons_999999_256x240.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\pre_inscricao\imagens\ui-icons_999999_256x240.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/pre_inscricao/imagens/ui-icons_fbc856_256x240.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\pre_inscricao\imagens\ui-icons_fbc856_256x240.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/validacao/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://207582.mannesoftprime.com.br/validacao/css/font/icomoon.eot?
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\css\font\icomoon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://207582.mannesoftprime.com.br/validacao/css/font/icomoon.eot?rameby
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\css\font\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://207582.mannesoftprime.com.br/validacao/css/font/icomoon.svg?rameby
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\css\font\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://207582.mannesoftprime.com.br/validacao/css/font/icomoon.ttf?rameby
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\css\font\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://207582.mannesoftprime.com.br/validacao/css/font/icomoon.woff?rameby
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\css\font\icomoon.woff
+Content Type: font/woff
+
+Uri: https://207582.mannesoftprime.com.br/validacao/css/jquery-ui-1.8.16.custom.css
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\css\jquery-ui-1.8.16.custom.css
+Content Type: text/css
+
+Uri: https://207582.mannesoftprime.com.br/validacao/css/style.css
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\css\style.css
+Content Type: text/css
+
+Uri: https://207582.mannesoftprime.com.br/validacao/imagens/apple-touch-icon-120x120.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\imagens\apple-touch-icon-120x120.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/validacao/imagens/apple-touch-icon-152x152.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\imagens\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/validacao/imagens/apple-touch-icon-180x180.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\imagens\apple-touch-icon-180x180.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/validacao/imagens/apple-touch-icon-60x60.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\imagens\apple-touch-icon-60x60.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/validacao/imagens/apple-touch-icon-76x76.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\imagens\apple-touch-icon-76x76.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/validacao/imagens/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\imagens\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/validacao/imagens/fundo_logo.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\imagens\fundo_logo.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/validacao/imagens/icon-hires.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\imagens\icon-hires.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/validacao/imagens/icon-normal.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\imagens\icon-normal.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/validacao/imagens/logo.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\imagens\logo.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/validacao/imagens/rodape.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\imagens\rodape.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/validacao/imagens/rodape_cliente.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\imagens\rodape_cliente.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/validacao/imagens/rodape_prime.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\imagens\rodape_prime.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/validacao/imagens/slider_fundo.png
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\imagens\slider_fundo.png
+Content Type: image/png
+
+Uri: https://207582.mannesoftprime.com.br/validacao/javascript/javascript.js
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\javascript\javascript.js
+Content Type: application/javascript
+
+Uri: https://207582.mannesoftprime.com.br/validacao/lib/engine/search.js
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\lib\engine\search.js
+Content Type: application/javascript
+
+Uri: https://207582.mannesoftprime.com.br/validacao/lib/jquery/bootstrap.js
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\lib\jquery\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://207582.mannesoftprime.com.br/validacao/lib/jquery/jquery-1.11.2.min.js
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\lib\jquery\jquery-1.11.2.min.js
+Content Type: application/javascript
+
+Uri: https://207582.mannesoftprime.com.br/validacao/lib/jquery/jquery-1.6.2.min.js
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\lib\jquery\jquery-1.6.2.min.js
+Content Type: application/javascript
+
+Uri: https://207582.mannesoftprime.com.br/validacao/lib/jquery/jquery-ui-1.8.16.custom.min.js
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\lib\jquery\jquery-ui-1.8.16.custom.min.js
+Content Type: application/javascript
+
+Uri: https://207582.mannesoftprime.com.br/validacao/lib/jquery/jquery.maskedinput-1.3.min.js
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\lib\jquery\jquery.maskedinput-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://207582.mannesoftprime.com.br/validacao/lib/jquery/ui.datepicker-pt-BR.js
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\lib\jquery\ui.datepicker-pt-BR.js
+Content Type: application/javascript
+
+Uri: https://207582.mannesoftprime.com.br/validacao/valida_carteirinha.php?ID=c577a8ad9a901a78271a2d0b1a27a9a0
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\validacao\valida_carteirinha.php.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400,900|Oswald:300,400,700
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\s\lato\v24\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\207582.mannesoftprime.com.br\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
